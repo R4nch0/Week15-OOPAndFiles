@@ -1,0 +1,16 @@
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\bin\Debug\net5.0\OOPAndFIles.exe
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\bin\Debug\net5.0\OOPAndFIles.deps.json
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\bin\Debug\net5.0\OOPAndFIles.runtimeconfig.json
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\bin\Debug\net5.0\OOPAndFIles.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\bin\Debug\net5.0\OOPAndFIles.dll
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\bin\Debug\net5.0\ref\OOPAndFIles.dll
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\bin\Debug\net5.0\OOPAndFIles.pdb
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\obj\Debug\net5.0\OOPAndFIles.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\obj\Debug\net5.0\OOPAndFIles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\obj\Debug\net5.0\OOPAndFIles.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\obj\Debug\net5.0\OOPAndFIles.AssemblyInfo.cs
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\obj\Debug\net5.0\OOPAndFIles.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\obj\Debug\net5.0\OOPAndFIles.dll
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\obj\Debug\net5.0\ref\OOPAndFIles.dll
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\obj\Debug\net5.0\OOPAndFIles.pdb
+C:\Users\kevin\source\repos\OOPAndFIles\OOPAndFIles\obj\Debug\net5.0\OOPAndFIles.genruntimeconfig.cache
